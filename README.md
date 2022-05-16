@@ -1,3 +1,3 @@
 # Recipe-Finder 
 
-- **Demo** (https://dev-recipe-finder.herokuapp.com/) 
+- **Demo** https://dev-recipe-finder.herokuapp.com/ 
